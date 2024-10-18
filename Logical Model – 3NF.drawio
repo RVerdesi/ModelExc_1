@@ -795,8 +795,8 @@
         <mxCell id="5Bc8UwKq1f_1eTB7SCyp-239" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.023;entryY=0.563;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" edge="1" parent="1" source="5Bc8UwKq1f_1eTB7SCyp-28" target="5Bc8UwKq1f_1eTB7SCyp-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="962" y="397" />
-              <mxPoint x="962" y="596" />
+              <mxPoint x="929" y="397" />
+              <mxPoint x="929" y="596" />
               <mxPoint x="1203" y="596" />
               <mxPoint x="1203" y="673" />
             </Array>
