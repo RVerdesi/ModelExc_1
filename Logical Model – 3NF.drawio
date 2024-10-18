@@ -630,7 +630,7 @@
           <mxGeometry x="45" y="1536" width="1879" height="233" as="geometry" />
         </mxCell>
         <mxCell id="5Bc8UwKq1f_1eTB7SCyp-121" value="Warehouse" style="shape=table;startSize=29;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;align=center;resizeLast=1;fillColor=#f0f6ff;strokeColor=#6c8ebf;fontStyle=1;gradientColor=#0066FF;rounded=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="63" width="306" height="120" as="geometry" />
+          <mxGeometry x="985" y="62" width="306" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5Bc8UwKq1f_1eTB7SCyp-122" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;fontStyle=1;rounded=1;" vertex="1" parent="5Bc8UwKq1f_1eTB7SCyp-121">
           <mxGeometry y="29" width="306" height="30" as="geometry" />
